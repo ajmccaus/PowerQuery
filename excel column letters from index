@@ -1,4 +1,4 @@
-// this code is to create excel column tags (A, B, C, AA, AB, etc) from an excel worksheet that has been transposed, 
+// this code is to create excel column letters (A, B, C, AA, AB, etc) from an excel worksheet that has been transposed, 
 // so that the excel columns are in the rows of the transposed table. This can be useful when working with an excel spreadsheet
 // with 10's or 100's of columns, up to about 675 columns (column ZZ)
 
